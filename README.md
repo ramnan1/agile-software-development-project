@@ -13,9 +13,13 @@ Repositori ini berisi **CV profesional** saya, dibangun menggunakan teknologi we
   - Bootstrap / Tailwind CSS
   - React / Vue.js (untuk CV dinamis)
 
-🔗 **Live Site**: [Click here to view the website](https://ramnan1.github.io/agile-project/ramnan)
-🔗 **Live Site**: [Click here to view the website](https://ramnan1.github.io/agile-project/alief)
-🔗 **Live Site**: [Click here to view the website](https://ramnan1.github.io/agile-project/ryan)
+# 🌐 Live Demo
+
+🔗 **Live Site**: [Visit the Website Ramnan](https://ramnan1.github.io/agile-project/ramnan)
+
+🔗 **Live Site**: [Visit the Website Alief](https://ramnan1.github.io/agile-project/alief)
+
+🔗 **Live Site**: [Visit the Website Ryan](https://ramnan1.github.io/agile-project/ryan)
 
 ## Features
 
